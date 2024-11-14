@@ -19,6 +19,7 @@
 #ifndef _TNavBankFilter_h
 #define _TNavBankFilter_h
 
+#include <cstdint>
 #include <math.h>
 #include <fstream>
 #include <iomanip>
